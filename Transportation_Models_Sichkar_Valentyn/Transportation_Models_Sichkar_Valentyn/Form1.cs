@@ -1,4 +1,15 @@
-﻿using System;
+// File: Form1.cs
+// Description: ransportation Model for an optimal strategy for distributing a commodity from a group of supply centers to various receiving centers
+// Environment: Visual Studio 2015, C#
+//
+// MIT License
+// Copyright (c) 2017 Valentyn N Sichkar
+// github.com/sichkar-valentyn
+//
+// Reference to:
+//[1] Valentyn N Sichkar. Transportation Model for an optimal strategy for distributing a commodity from a group of supply centers to various receiving centers. Solved in C# Windows Form // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Transportation_Problem (date of access: XX.XX.XXXX)
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
