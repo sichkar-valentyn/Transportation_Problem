@@ -1,5 +1,5 @@
 // File: Form1.cs
-// Description: ransportation Model for an optimal strategy for distributing a commodity from a group of supply centers to various receiving centers
+// Description: Transportation Model for an optimal strategy for distributing a commodity from a group of supply centers to various receiving centers
 // Environment: Visual Studio 2015, C#
 //
 // MIT License
