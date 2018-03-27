@@ -19,7 +19,7 @@ For the transportation K units from warehouse i to consumer j the total transpor
 The task is to find a transportation plan in which the total transportation cost of all products to all consumers will be minimal.
 
 ## Task for Transportation Problem
-![Result](images/Task_for_Transportation_Problem.png)
+![Task](images/Task_for_Transportation_Problem.png)
 
 ## Checking for the balance
 ![Result](images/Checking_for_the_balance.png)
