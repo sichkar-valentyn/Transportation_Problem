@@ -87,6 +87,7 @@ The task is to find a transportation plan in which the total transportation cost
 ## Results and Conclusions
 ![Result](images/Results_and_Conclusions.png)
 
+
 ## MIT License
 ## Copyright (c) 2017 Valentyn N Sichkar
 ## github.com/sichkar-valentyn
