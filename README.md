@@ -9,7 +9,7 @@ The general transportation problem is concerned with determining an optimal stra
 
 Each source is able to supply a fixed number of units of the product, usually called the capacity or availability, and each destination has a fixed demand, often called the requirement.
 
-Transportation models can also be used when a firm is trying to decide where to locate a new facility. Good financial decisions concerning facility location also attempt to minimize total transportation and production costs for the entire system.
+Transportation models can also be used when a company is trying to decide where to locate a new facility. Good financial decisions concerning facility location also attempt to minimize total transportation and production costs for the entire system.
 
 ## Task
 There are 4 warehouse containing some number of units of the same type of product (see table 1), there is also 5 consumers depend on a certain amount of these products (see table 2). When shipping one unit from warehouse i to consumer j costs Pij arise. The magnitude of the costs is shown in Table 3.
