@@ -14,9 +14,7 @@ Transportation models can also be used when a company is trying to decide where 
 ## Task
 There are 4 warehouse containing some number of units of the same type of product (see table 1), there is also 5 consumers depend on a certain amount of these products (see table 2). When shipping one unit from warehouse i to consumer j costs Pij arise. The magnitude of the costs is shown in Table 3.
 
-For the transportation K units from warehouse i to consumer j the total transportation cost is K*Pij.
-
-The task is to find a transportation plan in which the total transportation cost of all products to all consumers will be minimal.
+For the transportation K units from warehouse i to consumer j the total transportation cost is K*Pij.* The task is to find a transportation plan in which the total transportation cost of all products to all consumers will be minimal.
 
 
 ## Task for Transportation Problem
