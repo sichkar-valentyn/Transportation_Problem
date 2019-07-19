@@ -1,9 +1,6 @@
 # Transportation Problem
 Transportation Model for an optimal strategy for distributing a commodity from a group of supply centers to various receiving centers. Solved in C# Windows Form Application.
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Transportation Model for an optimal strategy for distributing a commodity from a group of supply centers to various receiving centers. Solved in C# Windows Form // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Transportation_Problem (date of access: XX.XX.XXXX)
 
